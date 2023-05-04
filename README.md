@@ -28,7 +28,7 @@
 
 <p align="center">
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sharifehab&layout=compact&langs_count=8&theme=dark" alt="sharifehab" />
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sharifehab&show_icons=true&theme=dark&line_height=27" alt="sharifehab" />
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sharifehab&show_icons=true&theme=dark&line_height=27" alt="sharifehab" />
 </p>
 
 <p align="center">
