@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sharifehab&show_icons=true&locale=en&layout=compact" alt="sharifehab" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sharifehab&show_icons=true&locale=en" alt="sharifehab" /></p>
+<p><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sharifehab&show_icons=true&locale=en" alt="sharifehab" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharifehab&" alt="sharifehab" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharifehab&" alt="sharifehab" /></p>
 
