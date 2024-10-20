@@ -4,15 +4,13 @@
 
 
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsapphireventures.com%2Fblog%2Fai-paving-the-future-of-digital-healthcare%2F&psig=AOvVaw0Y46nu-b0cl_aexqcJvwHF&ust=1729521587311000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCZireYnYkDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharifehab&label=Profile%20views&color=0e75b6&style=flat" alt="sharifehab" /> </p>
 
-- 🔭 I’m currently looking into  **Software applications in the healthcare field (CDSS ,HIS, AI/ML, DSP)**
+- 🔭 I’m currently looking into  **AI applications in the healthcare field (DL|ML|CV|NLP)**
 
- - 👨‍💻 I’m currently working on  **Digital Signal Processing, Machine Learning**
-
-- 🌱 I’m currently learning **Regression Models, Neural Networks , Digital Signal Processing , Hospital Information Systems**
+ - 👨‍💻 I’m currently working on  **Deep Learning, Machine Learning,Medical Computer Vision**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
