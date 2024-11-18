@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 📫 How to reach me **Sharif.Mohammad02@eng-st.cu.edu.eg**
+- 📫 How to reach me **sharifelmasry274@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
