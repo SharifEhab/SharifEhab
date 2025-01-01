@@ -4,8 +4,6 @@
 
 
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsapphireventures.com%2Fblog%2Fai-paving-the-future-of-digital-healthcare%2F&psig=AOvVaw0Y46nu-b0cl_aexqcJvwHF&ust=1729521587311000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCZireYnYkDFQAAAAAdAAAAABAE">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharifehab&label=Profile%20views&color=0e75b6&style=flat" alt="sharifehab" /> </p>
 
 - 🔭 I’m currently looking into  **AI applications in the healthcare field (DL|ML|CV|NLP)**
