@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharifehab&label=Profile%20views&color=0e75b6&style=flat" alt="sharifehab" /> </p>
 
-- 🔭 I’m currently looking into  **AI applications in the healthcare field (DL|ML|CV|NLP)**
+- 🔭 I’m currently looking into  **AI applications in the healthcare field (DL|ML|CV|)**
 
  - 👨‍💻 I’m currently working on  **Deep Learning, Machine Learning,Medical Computer Vision**
 
