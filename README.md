@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Sharif Ehab Elmasry</h1>
-<h3 align="center">I'm a passionate Healthcare Engineering student with a keen interest in the development of innovative medical software applications</h3>
+<h1 align="center">Hi 👋, I'm Sharif </h1>
+<h3 align="center"> Computational Engineering MSc. student @ FAU Erlangen with interest medical computational research problems</h3>
 
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharifehab&label=Profile%20views&color=0e75b6&style=flat" alt="sharifehab" /> </p>
 
-- 🔭 I’m currently looking into  **AI applications in the healthcare field (DL|ML|CV|)**
+- 🔭 I’m currently looking into  **AI research in the healthcare field**
 
- - 👨‍💻 I’m currently working on  **Deep Learning, Machine Learning,Medical Computer Vision**
+ - 👨‍💻 I’m currently working on  **Deep Learning, Machine Learning, Computer Vision**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
