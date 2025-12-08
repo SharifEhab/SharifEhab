@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharif </h1>
-<h3 align="center"> Computational Engineering MSc. student @ FAU Erlangen with interest medical computational research problems</h3>
+<h3 align="center"> Computational Engineering MSc. student @ FAU Erlangen with interest in medical computational research problems</h3>
 
 
 
